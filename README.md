@@ -18,13 +18,13 @@ martial arts, most recently: Ving Tsun.
 ## Technology
 
 **Languages**
-- [Ruby on Rails](www.rubyonrails.org)
+- [Ruby on Rails](http://www.rubyonrails.org)
 - [HTML](https://en.wikipedia.org/wiki/HTML)
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets), [SCSS, SASS](https://sass-lang.com/)
 - [Javascript, ES6+](https://en.wikipedia.org/wiki/ECMAScript), [Coffeescript](https://coffeescript.org/)
 
 **Platform**
-- [Debian GNU/Linux](www.debian.org)
+- [Debian GNU/Linux](http://www.debian.org)
 - [Docker](https://www.docker.com)
 
 **Tools**
