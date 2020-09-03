@@ -17,19 +17,20 @@ martial arts, most recently: Ving Tsun.
 
 ## Technology
 
-**Languages**
-- [Ruby on Rails](http://www.rubyonrails.org)
-- [HTML](https://en.wikipedia.org/wiki/HTML)
-- [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets), [SCSS, SASS](https://sass-lang.com/)
-- [Javascript, ES6+](https://en.wikipedia.org/wiki/ECMAScript), [Coffeescript](https://coffeescript.org/)
+**Languages/Frameworks**
+- [Ruby on Rails](http://www.rubyonrails.org) Working since 2006, speaking at events since 2009, organizing since 2010
+- [HTML](https://en.wikipedia.org/wiki/HTML) For so long that I learned the tags in UPPERCASE
+- [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets), [SCSS, SASS](https://sass-lang.com/) Since there was nothing but tables and GIFs
+- [Javascript, ES6+](https://en.wikipedia.org/wiki/ECMAScript) worked for a year as a framework developer 
+- [Coffeescript](https://coffeescript.org/)
 
 **Platform**
-- [Debian GNU/Linux](http://www.debian.org)
+- [Debian GNU/Linux](http://www.debian.org) and sometime [Ubuntu](https://ubuntu.com/)
 - [Docker](https://www.docker.com)
 
 **Tools**
 - [Vim](https://www.vim.org/)
-- [Git](https://git-scm.com/)
+- [Git](https://git-scm.com/) but old enough to have used [SVN](https://subversion.apache.org/) and to have **not** used it because it did not exist.
 - [Bash](https://www.gnu.org/software/bash/)
 
 ## 📚 Reading (non-technical)
