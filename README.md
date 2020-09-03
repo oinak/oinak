@@ -25,11 +25,11 @@ martial arts, most recently: Ving Tsun.
 - [Coffeescript](https://coffeescript.org/)
 
 **Platform**
-- [Debian GNU/Linux](http://www.debian.org) and sometime [Ubuntu](https://ubuntu.com/)
+- [Debian GNU/Linux](http://www.debian.org) and sometimes [Ubuntu](https://ubuntu.com/)
 - [Docker](https://www.docker.com)
 
 **Tools**
-- [Vim](https://www.vim.org/)
+- [Vim](https://www.vim.org/) you may sneek into [my config](https://github.com/oinak/dotvim).
 - [Git](https://git-scm.com/) but old enough to have used [SVN](https://subversion.apache.org/) and to have **not** used it because it did not exist.
 - [Bash](https://www.gnu.org/software/bash/)
 
