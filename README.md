@@ -24,8 +24,12 @@ martial arts, most recently: Ving Tsun.
 - [Javascript, ES6+](https://en.wikipedia.org/wiki/ECMAScript) worked for a year as a framework developer 
 - [Coffeescript](https://coffeescript.org/)
 
+I have also worked with [Perl](https://www.perl.org/), [PHP](https://www.php.net/) and [Go](https://golang.org/) 
+and made some study or experimenting with [Node](https://nodejs.org/en/), [Crystal](https://crystal-lang.org/) and [Elixir](https://elixir-lang.org/). 
+
 **Platform**
 - [Debian GNU/Linux](http://www.debian.org) and sometimes [Ubuntu](https://ubuntu.com/)
+- I have been known to  grumblingly use OSX.
 - [Docker](https://www.docker.com)
 
 **Tools**
