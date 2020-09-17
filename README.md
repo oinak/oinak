@@ -37,6 +37,14 @@ and made some study or experimenting with [Node](https://nodejs.org/en/), [Cryst
 - [Git](https://git-scm.com/) but old enough to have used [SVN](https://subversion.apache.org/) and to have **not** used it because it did not exist.
 - [Bash](https://www.gnu.org/software/bash/)
 
+## 🧠 Meditations
+
+- [ES6+ classes and the snake game](https://gist.github.com/oinak/2231c4986fb3c44ba8bb85d76162a8f9) 2019
+- [Sandi Metz and the roman numerals](https://gist.github.com/oinak/683894b18377f4ebed54b03e4938ba76) 2016
+- [On hashes and procs in Ruby](https://gist.github.com/oinak/28ca4deae6fd812fc3c5) 2016
+- [Tic Tac Toe on Ruby](https://gist.github.com/oinak/d6421cacc89548df1e97)
+- [Gilded Rose Kata](https://github.com/oinak/gilded_rose_kata) 2015
+
 ## 📚 Reading (non-technical)
 
 ### [Kameron Hurley](https://www.kameronhurley.com/)
