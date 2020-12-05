@@ -5,7 +5,7 @@ Hello, I am Fernando, a software developer from Madrid, Spain. I started dabbing
 in computers around 1986, and writing production software on 1999.
 Yes, that's when The Matrix was released &lt;insert joke about how old I am&gt;.
 
-I am specialized in complex e-commenrce and fintech web applications specialy
+I am specialized in complex e-commerce and fintech web applications specialy
 within the Ruby on Rails ecosystem.
 I like [leanring new stuff and sharing with others](https://dev.to/oinak/),
 I have taught programming courses and collaborated in tech evetns, such as 
