@@ -50,9 +50,13 @@ and made some study or experimenting with [Node](https://nodejs.org/en/), [Cryst
 
 ## 📚 Reading (non-technical)
 
+### [Ursula K. Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin)
+
+- ✅  1974 [The Dispossessed](https://play.google.com/store/books/details/Ursula_K_Le_Guin_The_Dispossessed?id=tlhFtmTixvwC)
+
 ### [Kameron Hurley](https://www.kameronhurley.com/)
 
-- 🚧  2014 [The Mirror Empire (Worldbreaker Saga Book 1)](https://www.amazon.com/dp/B00IQQUYVK/ref=cm_sw_r_tw_dp_x_f0elFbMB75HYC)
+- ✅  2014 [The Mirror Empire (Worldbreaker Saga Book 1)](https://www.amazon.com/dp/B00IQQUYVK/ref=cm_sw_r_tw_dp_x_f0elFbMB75HYC)
 - 🔜  2015 [Empire Ascendant (Worldbreaker Saga Book 2)](https://www.amazon.com/dp/B00S3OVU7W/ref=cm_sw_r_tw_dp_x_bHelFbDEN5ZFM)
 - ✅  2016 [The Geek Feminist Revolution (Essay)](https://play.google.com/store/books/details/Kameron_Hurley_The_Geek_Feminist_Revolution?id=DN6UCgAAQBAJ)
 - ✅  2017 [The Stars Are Legion](https://play.google.com/store/books/details/Kameron_Hurley_The_Stars_Are_Legion?id=AcmJCwAAQBAJ)
