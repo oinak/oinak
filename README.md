@@ -78,11 +78,20 @@ and made some study or experimenting with [Node](https://nodejs.org/en/), [Cryst
 - ✅  2018 [The night Masquerade](https://www.amazon.com/Binti-Night-Masquerade-Book/dp/B07C5R18TP)
 
 **[The Nsibidi Script Series](http://www.nnedi.com/books/akata.html)**
-- 🚧  2011 [Akata Witch](https://www.goodreads.com/book/show/7507944-akata-witch)
-- 🔜  2017 [Akata Warrior](https://www.goodreads.com/book/show/18746776-akata-warrior)
+- ✅  2011 [Akata Witch](https://www.goodreads.com/book/show/7507944-akata-witch)
+- ✅  2017 [Akata Warrior](https://www.goodreads.com/book/show/18746776-akata-warrior)
 - 🔜. 2022 [Akta woman](https://www.goodreads.com/book/show/57841497-akata-woman)
 
+###[Tamsyn Muir](http://tamsynmuir.com)
+
+**The Locked Tomb**
+- 🔜 20xx [0.5 - The Mysterious Study of Doctor Sex ](https://www.goodreads.com/book/show/53465671-the-mysterious-study-of-doctor-sex)
+- ✅ 2019 [1 - Gideon the Ninth](https://www.goodreads.com/book/show/42036538-gideon-the-ninth)
+- ✅ 2020 [2 - Harrow the Ninth](https://www.goodreads.com/book/show/39325105-harrow-the-ninth)
+- 🔜 20?? [3 - Nona the Ninth](https://www.goodreads.com/book/show/58662507-nona-the-ninth)
+
 ### [Tomi Adeyemi](https://www.tomiadeyemi.com/)
+
 **Legacy of Orïsha**
 - ✅  2018 Children of Blood and Bone
 - ✅  2019 Children of Virtue and Vengeance
