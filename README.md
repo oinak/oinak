@@ -8,7 +8,7 @@ Yes, that's when The Matrix was released &lt;insert joke about how old I am&gt;.
 I am specialized in complex e-commerce and fintech web applications specialy
 within the Ruby on Rails ecosystem.
 I like [leanring new stuff and sharing with others](https://dev.to/oinak/),
-I have taught programming courses and collaborated in tech evetns, such as 
+I have taught programming courses and collaborated in tech events, such as 
 Spainjs, or the [Spanish Rails Conference](http://conferenciaror.es/).
 
 I spend most of my non-working time trying to be a passable father and husband,
