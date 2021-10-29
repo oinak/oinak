@@ -1,6 +1,9 @@
 
 # Oinak
 
+![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=%40oinak&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Foinak)
+![Keybase PGP](https://img.shields.io/keybase/pgp/oinak)
+
 Hello, I am Fernando, a software developer from Madrid, Spain. I started dabbing
 in computers around 1986, and writing production software on 1999.
 Yes, that's when The Matrix was released &lt;insert joke about how old I am&gt;.
@@ -18,24 +21,29 @@ martial arts, most recently: Ving Tsun.
 ## Technology
 
 **Languages/Frameworks**
-- [Ruby on Rails](http://www.rubyonrails.org) Working since 2006, speaking at events since 2009, organizing since 2010
-- [HTML](https://en.wikipedia.org/wiki/HTML) For so long that I learned the tags in UPPERCASE
-- [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets), [SCSS, SASS](https://sass-lang.com/) Since there was nothing but tables and GIFs
-- [Javascript, ES6+](https://en.wikipedia.org/wiki/ECMAScript) worked for a year as a framework developer 
+- ![Ruby](https://img.shields.io/badge/Ruby-1.8/2.x/3.x-red)
+![Rails](https://img.shields.io/badge/Rails-1/2/3/4/5/6-red)
+[Ruby on Rails](http://www.rubyonrails.org) Working since 2006, speaking at events since 2009, organizing since 2010
+- ![HTML](https://img.shields.io/badge/HTML-5-blue) [HTML](https://en.wikipedia.org/wiki/HTML) For so long that I learned the tags in UPPERCASE
+- ![CSS](https://img.shields.io/badge/CSS-3-orange) [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets), [SCSS, SASS](https://sass-lang.com/) Since there was nothing but tables and GIFs
+- ![JS](https://img.shields.io/badge/Js-ES6+-yellow) [Javascript, ES6+](https://en.wikipedia.org/wiki/ECMAScript) worked for a year as a framework developer 
 - [Coffeescript](https://coffeescript.org/)
 
 I have also worked with [Perl](https://www.perl.org/), [PHP](https://www.php.net/) and [Go](https://golang.org/) 
 and made some study or experimenting with [Node](https://nodejs.org/en/), [Crystal](https://crystal-lang.org/) and [Elixir](https://elixir-lang.org/). 
 
 **Platform**
-- [Debian GNU/Linux](http://www.debian.org) and sometimes [Ubuntu](https://ubuntu.com/)
+- ![GNU/Linux](https://img.shields.io/badge/debian-GNU/Linux-success)
+ [Debian GNU/Linux](http://www.debian.org) and sometimes [Ubuntu](https://ubuntu.com/)
 - I have been known to  grumblingly use OSX.
-- [Docker](https://www.docker.com)
+- ![Docker](https://img.shields.io/badge/docker-compose-blue) [Docker](https://www.docker.com)
+- ![MySQL](https://img.shields.io/badge/MySQL-blue) MySQL
+- ![Redis](https://img.shields.io/badge/Redis-red) Redis
 
 **Tools**
-- [Vim](https://www.vim.org/) you may sneek into [my config](https://github.com/oinak/dotvim).
-- [Git](https://git-scm.com/) but old enough to have used [SVN](https://subversion.apache.org/) and to have **not** used it because it did not exist.
-- [Bash](https://www.gnu.org/software/bash/)
+- ![Vim](https://img.shields.io/badge/Vim-green) [Vim](https://www.vim.org/) you may sneek into [my config](https://github.com/oinak/dotvim).
+- ![Git](https://img.shields.io/badge/Git-orange) [Git](https://git-scm.com/) but old enough to have used [SVN](https://subversion.apache.org/) and to have **not** used it because it did not exist.
+- ![Bash](https://img.shields.io/badge/Bash-blueviolet) [Bash](https://www.gnu.org/software/bash/)
 
 ## 🧠 Meditations
 
