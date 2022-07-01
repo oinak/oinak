@@ -81,14 +81,14 @@ and made some study or experimenting with [Node](https://nodejs.org/en/), [Cryst
 ### [Nnedi Okorafor](http://www.nnedi.com/)
 
 **[Binti trilogy](http://www.nnedi.com/books/binti.html)**
-- ✅  2015 [Binti](https://www.amazon.com/Binti-Nnedi-Okorafor/dp/0765385252/ref=pd_bxgy_14_img_2?_encoding=UTF8&psc=1&refRID=DME4A1VNYJ0NYTW3XY3N)
-- ✅  2017 [Home](https://www.amazon.com/Binti-Home-Nnedi-Okorafor/dp/0765393115/ref=sr_1_1?ie=UTF8&qid=1485703444&sr=8-1)
-- ✅  2018 [The night Masquerade](https://www.amazon.com/Binti-Night-Masquerade-Book/dp/B07C5R18TP)
+- ✅ 2015 [Binti](https://www.amazon.com/Binti-Nnedi-Okorafor/dp/0765385252/ref=pd_bxgy_14_img_2?_encoding=UTF8&psc=1&refRID=DME4A1VNYJ0NYTW3XY3N)
+- ✅ 2017 [Home](https://www.amazon.com/Binti-Home-Nnedi-Okorafor/dp/0765393115/ref=sr_1_1?ie=UTF8&qid=1485703444&sr=8-1)
+- ✅ 2018 [The night Masquerade](https://www.amazon.com/Binti-Night-Masquerade-Book/dp/B07C5R18TP)
 
 **[The Nsibidi Script Series](http://www.nnedi.com/books/akata.html)**
-- ✅  2011 [Akata Witch](https://www.goodreads.com/book/show/7507944-akata-witch)
-- ✅  2017 [Akata Warrior](https://www.goodreads.com/book/show/18746776-akata-warrior)
-- 🔜. 2022 [Akata woman](https://www.goodreads.com/book/show/57841497-akata-woman)
+- ✅ 2011 [Akata Witch](https://www.goodreads.com/book/show/7507944-akata-witch)
+- ✅ 2017 [Akata Warrior](https://www.goodreads.com/book/show/18746776-akata-warrior)
+- ✅ 2022 [Akata woman](https://www.goodreads.com/book/show/57841497-akata-woman)
 
 ###[Tamsyn Muir](http://tamsynmuir.com)
 
@@ -105,6 +105,14 @@ and made some study or experimenting with [Node](https://nodejs.org/en/), [Cryst
 **Legacy of Orïsha**
 - ✅  2018 Children of Blood and Bone
 - ✅  2019 Children of Virtue and Vengeance
+
+### [Ann Leckie](https://annleckie.com/)
+
+**Imperial Radch**
+
+- 🚧 2013 Ancillary Justice
+- 🔜 2014 Ancillary Sword
+- 🔜 2015 Ancillary Mercy
 
 ### John Scalzi
 
