@@ -97,7 +97,7 @@ and made some study or experimenting with [Node](https://nodejs.org/en/), [Cryst
 - ✅ 2019 [1 - Gideon the Ninth](https://www.goodreads.com/book/show/42036538-gideon-the-ninth)
 - ✅ 2020 [2 - Harrow the Ninth](https://www.goodreads.com/book/show/39325105-harrow-the-ninth)
 - 🔜 2021 [2.5 - As yet unsent](https://www.goodreads.com/book/show/58662978-as-yet-unsent)
-- 🔜 20?? [3 - Nona the Ninth](https://www.goodreads.com/book/show/58662507-nona-the-ninth)
+- ✅ 2022 [3 - Nona the Ninth](https://www.goodreads.com/book/show/58662507-nona-the-ninth)
 - 🔜 20?? [4 - Alecto the Ninth](https://www.goodreads.com/book/show/39325106-alecto-the-ninth)
 
 ### [Tomi Adeyemi](https://www.tomiadeyemi.com/)
@@ -110,9 +110,9 @@ and made some study or experimenting with [Node](https://nodejs.org/en/), [Cryst
 
 **Imperial Radch**
 
-- 🚧 2013 Ancillary Justice
-- 🔜 2014 Ancillary Sword
-- 🔜 2015 Ancillary Mercy
+- ✅ 2013 Ancillary Justice
+- ✅ 2014 Ancillary Sword
+- ✅ 2015 Ancillary Mercy
 
 ### John Scalzi
 
