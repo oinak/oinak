@@ -114,6 +114,12 @@ and made some study or experimenting with [Node](https://nodejs.org/en/), [Cryst
 - ✅ 2014 Ancillary Sword
 - ✅ 2015 Ancillary Mercy
 
+### [Stina Leicht](http://www.csleicht.com/)
+- ✅ 2021 [Persephone Station](https://www.goodreads.com/book/show/49295293-persephone-station)
+
+### [Arkay Martine](https://www.arkadymartine.net/)
+**[Teixcalaan](https://www.goodreads.com/series/233352-teixcalaan)**
+- ✅ 2019 [A Memory called Empire](https://www.goodreads.com/book/show/37794149-a-memory-called-empire)
 ### John Scalzi
 
 **Old Man's War Series**
