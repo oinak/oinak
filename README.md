@@ -21,8 +21,9 @@ martial arts, most recently: Ving Tsun.
 ## Technology
 
 **Languages/Frameworks**
+- ![Python](https://img.shields.io/badge/Python-3.x-green) Recently brush up on my Python as a response to my employer needs
 - ![Ruby](https://img.shields.io/badge/Ruby-1.8/2.x/3.x-red)
-![Rails](https://img.shields.io/badge/Rails-1/2/3/4/5/6-red)
+![Rails](https://img.shields.io/badge/Rails-1/2/3/4/5/6/7-red)
 [Ruby on Rails](http://www.rubyonrails.org) Working since 2006, speaking at events since 2009, organizing since 2010
 - ![HTML](https://img.shields.io/badge/HTML-5-blue) [HTML](https://en.wikipedia.org/wiki/HTML) For so long that I learned the tags in UPPERCASE
 - ![CSS](https://img.shields.io/badge/CSS-3-orange) [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets), [SCSS, SASS](https://sass-lang.com/) Since there was nothing but tables and GIFs
