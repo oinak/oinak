@@ -42,7 +42,7 @@ and made some study or experimenting with [Node](https://nodejs.org/en/), [Cryst
 - ![Redis](https://img.shields.io/badge/Redis-red) Redis
 
 **Tools**
-- ![Vim](https://img.shields.io/badge/Vim-green) [Vim](https://www.vim.org/) you may sneek into [my old config](https://github.com/oinak/dotvim) but now I am into ![NeoVim](https://img.shields.io/badge/neovim-green) [Neovim](https://www.neovim.io/) you may also sneek into [my config]([https://gitlab.com/oinak/dotvim](https://gitlab.com/oinak/dot_config_nvim)).
+- ![Vim](https://img.shields.io/badge/Vim-green) [Vim](https://www.vim.org/) you may sneek into [my old config](https://github.com/oinak/dotvim) but now I am into ![NeoVim](https://img.shields.io/badge/neovim-green) [Neovim](https://www.neovim.io/) you may also sneek into [my new config](https://gitlab.com/oinak/dot_config_nvim).
 - ![Git](https://img.shields.io/badge/Git-orange) [Git](https://git-scm.com/) but old enough to have used [SVN](https://subversion.apache.org/) and to have **not** used it because it did not exist.
 - ![Bash](https://img.shields.io/badge/Bash-blueviolet) [Bash](https://www.gnu.org/software/bash/)
 
