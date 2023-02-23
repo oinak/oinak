@@ -79,19 +79,7 @@ and made some study or experimenting with [Node](https://nodejs.org/en/), [Cryst
 - ✅  2016 [The Obelisk Gate](http://nkjemisin.com/books/book-two-the-obelisk-gate/)
 - ✅  2017 [The Stone Sky](http://nkjemisin.com/books/the-stone-sky/)
 
-### [Nnedi Okorafor](http://www.nnedi.com/)
-
-**[Binti trilogy](http://www.nnedi.com/books/binti.html)**
-- ✅ 2015 [Binti](https://www.amazon.com/Binti-Nnedi-Okorafor/dp/0765385252/ref=pd_bxgy_14_img_2?_encoding=UTF8&psc=1&refRID=DME4A1VNYJ0NYTW3XY3N)
-- ✅ 2017 [Home](https://www.amazon.com/Binti-Home-Nnedi-Okorafor/dp/0765393115/ref=sr_1_1?ie=UTF8&qid=1485703444&sr=8-1)
-- ✅ 2018 [The night Masquerade](https://www.amazon.com/Binti-Night-Masquerade-Book/dp/B07C5R18TP)
-
-**[The Nsibidi Script Series](http://www.nnedi.com/books/akata.html)**
-- ✅ 2011 [Akata Witch](https://www.goodreads.com/book/show/7507944-akata-witch)
-- ✅ 2017 [Akata Warrior](https://www.goodreads.com/book/show/18746776-akata-warrior)
-- ✅ 2022 [Akata woman](https://www.goodreads.com/book/show/57841497-akata-woman)
-
-###[Tamsyn Muir](http://tamsynmuir.com)
+### [Tamsyn Muir](http://tamsynmuir.com)
 
 **The Locked Tomb**
 - 🔜 20xx [0.5 - The Mysterious Study of Doctor Sex ](https://www.goodreads.com/book/show/53465671-the-mysterious-study-of-doctor-sex)
@@ -100,12 +88,6 @@ and made some study or experimenting with [Node](https://nodejs.org/en/), [Cryst
 - 🔜 2021 [2.5 - As yet unsent](https://www.goodreads.com/book/show/58662978-as-yet-unsent)
 - ✅ 2022 [3 - Nona the Ninth](https://www.goodreads.com/book/show/58662507-nona-the-ninth)
 - 🔜 20?? [4 - Alecto the Ninth](https://www.goodreads.com/book/show/39325106-alecto-the-ninth)
-
-### [Tomi Adeyemi](https://www.tomiadeyemi.com/)
-
-**Legacy of Orïsha**
-- ✅  2018 Children of Blood and Bone
-- ✅  2019 Children of Virtue and Vengeance
 
 ### [Ann Leckie](https://annleckie.com/)
 
@@ -118,9 +100,17 @@ and made some study or experimenting with [Node](https://nodejs.org/en/), [Cryst
 ### [Stina Leicht](http://www.csleicht.com/)
 - ✅ 2021 [Persephone Station](https://www.goodreads.com/book/show/49295293-persephone-station)
 
-### [Arkay Martine](https://www.arkadymartine.net/)
+### [Arkady Martine](https://www.arkadymartine.net/)
 **[Teixcalaan](https://www.goodreads.com/series/233352-teixcalaan)**
 - ✅ 2019 [A Memory called Empire](https://www.goodreads.com/book/show/37794149-a-memory-called-empire)
+- ✅ 2021 [A Desolation called Peace](https://www.goodreads.com/en/book/show/45154547)
+
+### [Charlie Jane Anders](https://www.charliejaneanders.com/)
+**[Unstoppable Series](https://www.goodreads.com/series/217809-unstoppable)**
+- ✅ 2021 [Victories Greater than Death](https://www.goodreads.com/book/show/53205810-victories-greater-than-death)
+- ✅ 2022 [Dreams Bigger Than Heartbreak](https://www.goodreads.com/book/show/57693337-dreams-bigger-than-heartbreak)
+- 🔜 2023 [Promises Stronger Than Darkness](https://www.goodreads.com/book/show/53446537-promises-stronger-than-darkness)
+
 ### John Scalzi
 
 **Old Man's War Series**
@@ -137,3 +127,21 @@ and made some study or experimenting with [Node](https://nodejs.org/en/), [Cryst
 - ✅  2017 [The Collapsing Empire](https://www.amazon.com/dp/B01F20E7CO/ref=cm_sw_r_tw_dp_x_9kflFbSQ2JBT1)
 - ✅  2018 [The Consuming Fire](https://www.amazon.com/dp/B078X255Y1/ref=cm_sw_r_tw_dp_x_YmflFbV62BW59)
 - 🔜  2020 [The Last Emperox](https://www.amazon.com/dp/B07QPGW9FS/ref=cm_sw_r_tw_dp_x_8nflFbK8G0Z7Z)
+### [Nnedi Okorafor](http://www.nnedi.com/)
+
+**[Binti trilogy](http://www.nnedi.com/books/binti.html)**
+- ✅ 2015 [Binti](https://www.amazon.com/Binti-Nnedi-Okorafor/dp/0765385252/ref=pd_bxgy_14_img_2?_encoding=UTF8&psc=1&refRID=DME4A1VNYJ0NYTW3XY3N)
+- ✅ 2017 [Home](https://www.amazon.com/Binti-Home-Nnedi-Okorafor/dp/0765393115/ref=sr_1_1?ie=UTF8&qid=1485703444&sr=8-1)
+- ✅ 2018 [The night Masquerade](https://www.amazon.com/Binti-Night-Masquerade-Book/dp/B07C5R18TP)
+
+**[The Nsibidi Script Series](http://www.nnedi.com/books/akata.html)**
+- ✅ 2011 [Akata Witch](https://www.goodreads.com/book/show/7507944-akata-witch)
+- ✅ 2017 [Akata Warrior](https://www.goodreads.com/book/show/18746776-akata-warrior)
+- ✅ 2022 [Akata woman](https://www.goodreads.com/book/show/57841497-akata-woman)
+
+### [Tomi Adeyemi](https://www.tomiadeyemi.com/)
+
+**Legacy of Orïsha**
+- ✅  2018 Children of Blood and Bone
+- ✅  2019 Children of Virtue and Vengeance
+
