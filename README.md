@@ -111,6 +111,8 @@ and made some study or experimenting with [Node](https://nodejs.org/en/), [Cryst
 - ✅ 2022 [Dreams Bigger Than Heartbreak](https://www.goodreads.com/book/show/57693337-dreams-bigger-than-heartbreak)
 - 🔜 2023 [Promises Stronger Than Darkness](https://www.goodreads.com/book/show/53446537-promises-stronger-than-darkness)
 
+- 🔜 2019 [The City in the Middle of the Night](https://www.goodreads.com/book/show/37534907-the-city-in-the-middle-of-the-night)
+
 ### John Scalzi
 
 **Old Man's War Series**
