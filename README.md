@@ -16,7 +16,7 @@ Spainjs, or the [Spanish Rails Conference](http://conferenciaror.es/).
 
 I spend most of my non-working time trying to be a passable father and husband,
 but when time allows, I love reading some good sci-fi, cycling, or practicing
-martial arts, most recently: Ving Tsun.
+martial arts, most recently: Sabre Fencing.
 
 ## Technology
 
