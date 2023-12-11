@@ -113,6 +113,13 @@ and made some study or experimenting with [Node](https://nodejs.org/en/), [Cryst
 
 - 🔜 2019 [The City in the Middle of the Night](https://www.goodreads.com/book/show/37534907-the-city-in-the-middle-of-the-night)
 
+### [Susan Kaye Quinn](https://susankayequinn.com/)
+**[Nothing is promised](https://www.kobo.com/es/es/series/nothing-is-promised)**
+- ✅ [When you had power](https://www.kobo.com/es/es/ebook/when-you-had-power)
+- ✅ [You knew the price](https://www.kobo.com/es/es/ebook/you-knew-the-price)
+- 🔜 [Of kindness and kilowatts](https://www.kobo.com/es/es/ebook/of-kindness-and-kilowatts)
+- 🔜 [Yet you cry when it hurts](https://www.kobo.com/es/es/ebook/yet-you-cry-when-it-hurts) 
+
 ### John Scalzi
 
 **Old Man's War Series**
