@@ -158,6 +158,20 @@ and made some study or experimenting with [Node](https://nodejs.org/en/), [Cryst
 - ✅  2018 Children of Blood and Bone
 - ✅  2019 Children of Virtue and Vengeance
 
+### Martha Wells
+**The Murderbot Diaries**
+- ✅ 2017 [All Systems Red](https://www.goodreads.com/book/show/32758901-all-systems-red)
+
+### [Travis Baldree](https://www.travisbaldree.com/)
+
+✅ 2022 [Legends & Lattes](https://www.goodreads.com/book/show/61242426-legends-lattes)
+
+### [Aliette de Bodard](https://www.aliettedebodard.com/)
+
+**[Universe of Xuya](https://www.goodreads.com/series/306828-universe-of-xuya)**
+- ✅ 2022 [The Red Scholar's Wake](https://www.aliettedebodard.com/bibliography/novels/universe-of-xuya-romances/the-red-scholars-wake/)
+- 🔜 [A Fire Born of Exile](https://www.aliettedebodard.com/bibliography/novels/universe-of-xuya-romances/a-fire-born-of-exile/)
+
 ### [Xiran Jay Zhao](http://xiranjayzhao.com/)
 
 **Iron Widow**
