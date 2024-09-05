@@ -109,12 +109,13 @@ and made some study or experimenting with [Node](https://nodejs.org/en/), [Cryst
 - ✅ 2021 [A Desolation called Peace](https://www.goodreads.com/en/book/show/45154547)
 
 ### [Charlie Jane Anders](https://www.charliejaneanders.com/)
+
+🔜 2019 [The City in the Middle of the Night](https://www.goodreads.com/book/show/37534907-the-city-in-the-middle-of-the-night)
+
 **[Unstoppable Series](https://www.goodreads.com/series/217809-unstoppable)**
 - ✅ 2021 [Victories Greater than Death](https://www.goodreads.com/book/show/53205810-victories-greater-than-death)
 - ✅ 2022 [Dreams Bigger Than Heartbreak](https://www.goodreads.com/book/show/57693337-dreams-bigger-than-heartbreak)
 - 🔜 2023 [Promises Stronger Than Darkness](https://www.goodreads.com/book/show/53446537-promises-stronger-than-darkness)
-
-- 🔜 2019 [The City in the Middle of the Night](https://www.goodreads.com/book/show/37534907-the-city-in-the-middle-of-the-night)
 
 ### [Susan Kaye Quinn](https://susankayequinn.com/)
 **[Nothing is promised](https://www.kobo.com/es/es/series/nothing-is-promised)**
