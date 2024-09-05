@@ -159,7 +159,8 @@ and made some study or experimenting with [Node](https://nodejs.org/en/), [Cryst
 - ✅  2018 Children of Blood and Bone
 - ✅  2019 Children of Virtue and Vengeance
 
-### Martha Wells
+### [Martha Wells](https://marthawells.com/)
+
 **The Murderbot Diaries**
 - ✅ 2017 [All Systems Red](https://www.goodreads.com/book/show/32758901-all-systems-red)
 
