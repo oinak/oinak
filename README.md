@@ -120,7 +120,7 @@ and made some study or experimenting with [Node](https://nodejs.org/en/), [Cryst
 **[Nothing is promised](https://www.kobo.com/es/es/series/nothing-is-promised)**
 - ✅ [When you had power](https://www.kobo.com/es/es/ebook/when-you-had-power)
 - ✅ [You knew the price](https://www.kobo.com/es/es/ebook/you-knew-the-price)
-- 🔜 [Of kindness and kilowatts](https://www.kobo.com/es/es/ebook/of-kindness-and-kilowatts)
+- ✅  [Of kindness and kilowatts](https://www.kobo.com/es/es/ebook/of-kindness-and-kilowatts)
 - 🔜 [Yet you cry when it hurts](https://www.kobo.com/es/es/ebook/yet-you-cry-when-it-hurts) 
 
 ### John Scalzi
@@ -139,6 +139,7 @@ and made some study or experimenting with [Node](https://nodejs.org/en/), [Cryst
 - ✅  2017 [The Collapsing Empire](https://www.amazon.com/dp/B01F20E7CO/ref=cm_sw_r_tw_dp_x_9kflFbSQ2JBT1)
 - ✅  2018 [The Consuming Fire](https://www.amazon.com/dp/B078X255Y1/ref=cm_sw_r_tw_dp_x_YmflFbV62BW59)
 - 🔜  2020 [The Last Emperox](https://www.amazon.com/dp/B07QPGW9FS/ref=cm_sw_r_tw_dp_x_8nflFbK8G0Z7Z)
+
 ### [Nnedi Okorafor](http://www.nnedi.com/)
 
 **[Binti trilogy](http://www.nnedi.com/books/binti.html)**
@@ -157,3 +158,20 @@ and made some study or experimenting with [Node](https://nodejs.org/en/), [Cryst
 - ✅  2018 Children of Blood and Bone
 - ✅  2019 Children of Virtue and Vengeance
 
+### [Xiran Jay Zhao](http://xiranjayzhao.com/)
+
+**Iron Widow**
+- ✅ 2021 [Iron Widow](https://www.goodreads.com/book/show/52459864-iron-widow)
+- 🔜 2024 [Heavenly Tyrant](https://www.goodreads.com/book/show/52934483-heavenly-tyrant)
+
+### [Becky Chambers](https://en.wikipedia.org/wiki/Becky_Chambers)
+
+**Monk and Robot**
+- ✅ 2021 [A Psalm for the Wild-Built](https://www.goodreads.com/book/show/40864002-a-psalm-for-the-wild-built)
+- 🔜 2022 [A Prayer for the Crown-Shy](https://www.goodreads.com/book/show/40864030-a-prayer-for-the-crown-shy)
+  
+### [Augusta Owens](https://linktr.ee/augustaowens)
+
+**The Hummingbird Coven**
+- ✅ 2022 [The Hummingbird Coven](https://www.goodreads.com/book/show/61919186-the-hummingbird-coven)
+- ✅ 2024 [The Castaway Coven](https://www.goodreads.com/book/show/203583017-the-castaway-coven)
