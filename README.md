@@ -97,7 +97,7 @@ and made some study or experimenting with [Node](https://nodejs.org/en/), [Cryst
 - ✅ 2014 Ancillary Sword
 - ✅ 2015 Ancillary Mercy
 
-### Amal El-Mohtar and Max Gladstone
+### [Amal El-Mohtar](https://amalelmohtar.com/about/) and [Max Gladstone](https://www.maxgladstone.com/)
  - ✅ 2019 [This is how you loose the Time War](https://goodreads.com/book/show/43352954-this-is-how-you-lose-the-time-war)
 
 ### [Stina Leicht](http://www.csleicht.com/)
